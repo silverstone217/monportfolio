@@ -39,7 +39,7 @@ const Footer = () => {
             </a>
 
             <a
-              href="https://wa.me/+2431817338"
+              href="https://wa.me/+243831718338"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-green-500 transition-colors"
